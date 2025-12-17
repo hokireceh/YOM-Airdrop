@@ -7,4 +7,4 @@ https://quests.yom.net/loyalty?referral_code=GXW2KWRU
 - Connect X & Discord
 - Complete Task
 - Daily Check In (Free)
-✔️ Done
+- Done
