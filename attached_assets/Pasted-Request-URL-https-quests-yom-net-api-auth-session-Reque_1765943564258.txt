@@ -1,0 +1,102 @@
+Request URL
+https://quests.yom.net/api/auth/session
+Request Method
+GET
+Status Code
+200 OK
+Remote Address
+104.20.46.9:443
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-methods
+GET,HEAD,PUT,PATCH,POST,DELETE
+access-control-allow-origin
+http://admin.snagsolutions.io.localhost:3000
+cache-control
+no-store, max-age=0
+cf-cache-status
+DYNAMIC
+cf-ray
+9af35a98ce13ce02-SIN
+content-encoding
+br
+content-length
+127
+content-security-policy
+style-src 'self' 'unsafe-inline' https://fonts.googleapis.com https://assets.snagsolutions.io https://snag-assets.s3.us-west-2.amazonaws.com https://cdn.jsdelivr.net; font-src 'self' https://fonts.gstatic.com https://fonts.googleapis.com https://assets.snagsolutions.io https://snag-assets.s3.us-west-2.amazonaws.com https://cdn.jsdelivr.net; frame-ancestors http://admin.snagsolutions.io.localhost:3000 https://admin.snagsolutions.io https://www.uavatars.io/ https://mini-app.plankpushers.xyz https://ninehermits-games.github.io https://evefrontier.com https://staging.evefrontier.com http://frontier-local:3000 https://dev.zedrun.io https://preview-1.dev.zedrun.io https://preview-2.dev.zedrun.io https://preview-3.dev.zedrun.io https://preview-4.dev.zedrun.io https://preview-5.dev.zedrun.io https://preview-6.dev.zedrun.io https://app.zedchampions.com https://preprod.zedchampions.com;
+content-type
+application/json; charset=utf-8
+date
+Wed, 17 Dec 2025 03:32:32 GMT
+etag
+"5eavi2e675r"
+pragma
+no-cache
+rndr-id
+eabb9088-02d9-4525
+server
+cloudflare
+set-cookie
+__Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..6y_5s-X-dKGeMmpV.MQILtmN278Yua_aEy-4y4QwE_TiiD-9ZNlc5_WQfDCorbu74bsCG-lKgcaGsnJ-ydsTq8koYJBayeJcNeCDn1raVJtbZ66ePQjxp8qWN2FfglyPx1zl4arduNmoy_z3cul9VYJ2IQiwm_iOZYADDtYlGZTU748FL1b8Pbvd1JCjjVqwD87Y2r6v3YhhyWELRDCSDdOcxcBZxyMPXSqKGNr9Di3RHZ0Ri2pjz0UmUE1uw2X7BM1d2iwbL8W7pe7NHpu_wirCus4Sx0vTZqGu-sp4rq_X-bW4a2d3ZYFUPI6I2va2B087d8l-h.NcekuCm-MElwHTXcl6qfNw; Path=/; Expires=Fri, 16 Jan 2026 03:32:32 GMT; HttpOnly; Secure; SameSite=Lax
+vary
+Accept-Encoding
+vary
+Accept-Encoding
+x-render-origin-server
+Render
+:authority
+quests.yom.net
+:method
+GET
+:path
+/api/auth/session
+:scheme
+https
+accept
+*/*
+accept-encoding
+gzip, deflate, br, zstd
+accept-language
+en-US,en;q=0.5
+content-type
+application/json
+cookie
+cf_clearance=XY4TKTEvR6pxI818xiQ4niHE.0z03xubzwKhxy6ZvZs-1765942265-1.2.1.1-DGQh5NaVDlRkyJ5Zhqx1X.QtvkBHW6tahJY1TglPUBF.qsqNWk0xjm8uchr8xj2KuV7cSWIZUHS2LZOdQo4SGtv9kRtSjmFXQgF7Q9iGA2P6EWcaX7k2uFbaZX2Qwy.vv0gQb6GcFviXqppOnLdIyAa4VWgsNnW9qA4VaX6wSI.anUP4NQHnvKtex9vRh72itibG22mDHNWfHh1qqLP_0r4o_KIxxIZXaAPzUkW3pYI; referral_code=E4LJN5LI; __Secure-next-auth.callback-url=https%3A%2F%2Fquests.yom.net; __Host-next-auth.csrf-token=74b28dd58cb7b86296f128c099eff86976df233fd312603ecfa4fdbf00f00594%7Cf23db4a86e226a7e369256bf42c44cb7846951a278234ae9ceb6644f428a75c8; AMP_MKTG_ca1b91c797=JTdCJTIycmVmZXJyZXIlMjIlM0ElMjJodHRwcyUzQSUyRiUyRnguY29tJTJGJTIyJTJDJTIycmVmZXJyaW5nX2RvbWFpbiUyMiUzQSUyMnguY29tJTIyJTdE; AMP_ca1b91c797=JTdCJTIyZGV2aWNlSWQlMjIlM0ElMjIzMTkzZTZjYy1lNjMwLTQ4ODktOGVlYS1lMmE5MTZiN2Y2ODklMjIlMkMlMjJ1c2VySWQlMjIlM0ElMjI3MDZmZmU5ZS1iYzMyLTQ0NDUtOWZhYi04Y2E0YTk1N2MyMTYlMjIlMkMlMjJzZXNzaW9uSWQlMjIlM0ExNzY1OTQyMjcwMjI4JTJDJTIyb3B0T3V0JTIyJTNBZmFsc2UlMkMlMjJsYXN0RXZlbnRUaW1lJTIyJTNBMTc2NTk0MjMzOTU3NyUyQyUyMmxhc3RFdmVudElkJTIyJTNBMTclMkMlMjJwYWdlQ291bnRlciUyMiUzQTIlN0Q=; rule-b7607ad0-7a83-47a8-a540-4ff584ecfeb3=true; __Secure-next-auth.session-token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..jJXEUKGLNNOeyLla.QAZRVTFrgZvVjr48HpXY0EZNJvuvDc8vOoF2SL6Wh9rTV7SBFhiQlM_vRO-4IZGaP_9_TbBxLQHpVnqsXfP_dnrYMYIC84_jDYlXcbl99rCUCV9BrULls-mIji36KSpcWho33hxQ4Zv56K4vhuKScUG5ngTZG1zqqT_KbWSD7VGsRpwJffgjDuWGt0Tf5yiocYsKbtDvRh64Y0TEltYwNgpo3kkImFoNcQFc3CxXm5WIvvjNXDonpytGZulYdB0RLVfs9EgVs75grlSA8OedDzylbBUzQYxvVmkSScEqfZAH3WV3d6lxMsJ0.3ouqiTohTaiUWD5UdH0YeQ; _dd_s=aid=a9d7756d-55de-40a0-bd1e-d18c5f6f386d&logs=1&id=d4e087dd-c743-4c52-ac4b-b150c1f1a9bf&created=1765942269768&expire=1765943252347
+priority
+u=1, i
+referer
+https://quests.yom.net/loyalty
+sec-ch-ua
+"Brave";v="143", "Chromium";v="143", "Not A(Brand";v="24"
+sec-ch-ua-arch
+"x86"
+sec-ch-ua-bitness
+"64"
+sec-ch-ua-full-version-list
+"Brave";v="143.0.0.0", "Chromium";v="143.0.0.0", "Not A(Brand";v="24.0.0.0"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-model
+""
+sec-ch-ua-platform
+"Windows"
+sec-ch-ua-platform-version
+"19.0.0"
+sec-fetch-dest
+empty
+sec-fetch-mode
+cors
+sec-fetch-site
+same-origin
+sec-gpc
+1
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+{
+    "user": {
+        "walletAddress": "0xaddb3efe158b4f0038bb06fe5f57f74490000000",
+        "id": "706ffe9e-bc32-4445-9fab-8ca4a957c216"
+    },
+    "expires": "2026-01-16T03:32:32.884Z",
+    "address": "0xaddb3efe158b4f0038bb06fe5f57f74490000000"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "### 🌐 Register Here: https://quests.yom.net/loyalty?referral_code=GXW2KWRU - Connect Metamask Wallet - Connect X & Discord - Complete Task - Daily Check In (Free) - Done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "marked": "^17.0.1"
+  }
+}
