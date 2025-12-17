@@ -22,6 +22,8 @@ A Telegram bot for automating YOM airdrop tasks including daily check-ins, task 
 
 ## Environment Variables / Secrets
 - `TELEGRAM_BOT_TOKEN` - Required. Get from @BotFather on Telegram
+- `WALLET_PRIVATE_KEY` - Optional. Wallet private key for auto-login (0x...)
+- `YOM_SESSION_COOKIE` - Optional. Session cookie from browser
 
 ## API Endpoints Used
 - `/api/auth/session` - Session info
